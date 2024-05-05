@@ -1,31 +1,30 @@
-
 # Transcriptomic Taxonomy of Adult Mouse Visual Cortex
 
-This repository contains data and analysis for the study of the adult mouse visual cortex, providing RPKM values for 24,057 genes across 1,679 cells. This dataset offers a comprehensive overview of gene expression patterns and clustering based on a detailed transcriptomic taxonomy.
+This repository houses data and analyses for a study on the adult mouse visual cortex, featuring RPKM values for 24,057 genes across 1,679 cells. It provides a comprehensive view of gene expression patterns and cell clustering within a detailed transcriptomic taxonomy.
 
 ## Dataset Description
 
 The dataset includes:
 - **Gene Expression Data**: RPKM values for 24,057 genes.
-- **Cell Data**: Information on 1,679 cells from the adult mouse visual cortex.
-- **Cluster Information**: Cells are classified into clusters based on gene expression patterns.
+- **Cell Data**: Details on 1,679 cells derived from the adult mouse visual cortex.
+- **Cluster Information**: Classification of cells into clusters based on gene expression patterns.
 
-This data was sourced from the study available on the Broad Institute's Single Cell Portal, which can be accessed [here](https://singlecell.broadinstitute.org/single_cell/study/SCP6/a-transcriptomic-taxonomy-of-adult-mouse-visual-cortex-visp#study-download).
+The data was sourced from a study available on the Broad Institute's Single Cell Portal and is also accessible via Figshare.
+
+## Sources
+
+- Broad Institute's Single Cell Portal: [Study Overview and Download](https://singlecell.broadinstitute.org/single_cell/study/SCP6/a-transcriptomic-taxonomy-of-adult-mouse-visual-cortex-visp#study-download)
+- Figshare: [Neuronal Dataset and Cluster Data Information](https://figshare.com/articles/dataset/Neuronal_dataset_and_cluster_data_information/25751526)
 
 ## Usage
 
-This dataset is intended for use in scientific research, particularly in studies involving:
-- Neurobiology
-- Genetic analysis of the visual system
-- Computational biology studies focusing on clustering and gene expression patterns
+This dataset is intended for use in scientific research, especially in areas such as:
+- Computational biology, particularly focusing on clustering and gene expression patterns
+- Data imputation methodologies like MAGIC and scPHENIX used for benchmarking analyses
 
 ## How to Download
 
-The data can be downloaded directly from the Broad Institute's Single Cell Portal:
-- Go to the [study's download section](https://singlecell.broadinstitute.org/single_cell/study/SCP6/a-transcriptomic-taxonomy-of-adult-mouse-visual-cortex-visp#study-download).
-- Follow the instructions provided there to download the dataset files.
-
-## Citing This Dataset
-
-If you use this dataset in your research, please cite it as follows:
+The data can be downloaded from:
+- Broad Institute's Single Cell Portal, as detailed above.
+- Directly from Figshare via the Figshare link provided in the Sources section.
 
