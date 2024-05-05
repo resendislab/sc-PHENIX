@@ -11,6 +11,10 @@ The dataset includes:
 
 The data was sourced from a study available on the Broad Institute's Single Cell Portal and is also accessible via Figshare.
 
+## Included Code and Analysis
+
+Included in this repository is the code for differential expression analysis using Tukey's Honest Significant Difference (HSD) test for pairwise comparisons. The code and the results are provided in a condensed format in Excel files. This allows for an examination of the effects of data over-imputation by MAGIC and scPHENIX across different phenotypes, aiming to evaluate the performance of these imputation methods.
+
 ## Sources
 
 - Broad Institute's Single Cell Portal: [Study Overview and Download](https://singlecell.broadinstitute.org/single_cell/study/SCP6/a-transcriptomic-taxonomy-of-adult-mouse-visual-cortex-visp#study-download)
@@ -19,6 +23,8 @@ The data was sourced from a study available on the Broad Institute's Single Cell
 ## Usage
 
 This dataset is intended for use in scientific research, especially in areas such as:
+- Neurobiology
+- Genetic analysis of the visual system
 - Computational biology, particularly focusing on clustering and gene expression patterns
 - Data imputation methodologies like MAGIC and scPHENIX used for benchmarking analyses
 
@@ -26,5 +32,4 @@ This dataset is intended for use in scientific research, especially in areas suc
 
 The data can be downloaded from:
 - Broad Institute's Single Cell Portal, as detailed above.
-- Directly from Figshare via the Figshare link provided in the Sources section.
-
+- Directly from Figshare via the link provided in the Sources section.
