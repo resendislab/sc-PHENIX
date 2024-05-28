@@ -71,10 +71,12 @@ This repository contains data and code related to the analysis of MCF7 tumor sph
 
 
 ### Directories
+1. **MCF7 viz**
+   - Conteins de folders  **PHENIX viz** and  **MAGIC viz**
 
-1. **PHENIX viz**
+2. **PHENIX viz**
    - Description: Contains visualizations of t-SNE, PCA, UMAP, and PHATE for the imputed data. The visualizations include clusters calculated using HDBSCAN, as well as other gene-specific visualizations from the main article.
 
-2. **MAGIC viz**
+3. **MAGIC viz**
    - Description: Contains visualizations of t-SNE, PCA, UMAP, and PHATE for the imputed data. The visualizations include clusters calculated using HDBSCAN, as well as other gene-specific visualizations from the main article.
 
