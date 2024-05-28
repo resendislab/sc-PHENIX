@@ -69,10 +69,6 @@ This repository contains data and code related to the analysis of MCF7 tumor sph
 8. **GSEA_MAGIC_PHENIX.ipynb**
    - Description: Code for visualizing GSEA enrichment analysis results from table S2, based on the EMD values from clusters obtained from the 3D PCA space of MAGIC and sc-PHENIX.
 
-### Miscellaneous Files
-
-1. **ds.txt**
-   - Description: Additional documentation or notes related to the data and analyses.
 
 ### Directories
 
@@ -82,10 +78,3 @@ This repository contains data and code related to the analysis of MCF7 tumor sph
 2. **MAGIC viz**
    - Description: Contains visualizations of t-SNE, PCA, UMAP, and PHATE for the imputed data. The visualizations include clusters calculated using HDBSCAN, as well as other gene-specific visualizations from the main article.
 
-## Usage
-
-To replicate the analyses or explore the data, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
