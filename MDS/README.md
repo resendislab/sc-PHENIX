@@ -34,7 +34,7 @@ scPhenix_full_fx.csv             | Add files via upload          | 3 days ago
 
 - **Fig 6 Overview knn classifier.png**: An overview of the kNN classifier model accuracy on the 2D-MDS space derived from MAGIC's and sc-PHENIX's exponentiated Markovian matrix.
 
-![Figure 6 Overview](.[/Fig 6 Overview knn classifier.png](https://github.com/resendislab/sc-PHENIX/blob/main/MDS/Fig%206%20Overview%20knn%20classifier.png))
+![Figure Description](https://github.com/resendislab/sc-PHENIX/blob/main/MDS/Fig%206%20Overview%20knn%20classifier.png)
 
 - **MAGIC.png**: Visualization related to the MAGIC method.
 - **MDS_and_metrics_of_neuronal_dataset.ipynb**: Jupyter Notebook where various combinations of MDS were generated to create Figure 6, with 150 combinations for MAGIC and 150 for sc-PHENIX.
