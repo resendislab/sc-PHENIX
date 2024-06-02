@@ -1,14 +1,11 @@
 
 # Neuronal Dataset Analysis
 
-## Overview
+# Overview
+
 This repository contains the files and scripts used to analyze the neuronal dataset using various MDS combinations and kNN classifier models. The primary goal is to compare the performance of MAGIC and sc-PHENIX methods.
 
-Each plot represents different combinations of diffusion parameters 
-𝑡
-t, kNN values, and PCA dimensions. The color gradient, using a rainbow palette, indicates the classifier accuracy, with red representing higher accuracy and blue representing lower accuracy. The top row corresponds to MAGIC, while the bottom row corresponds to sc-PHENIX. The results show how increasing 
-𝑡
-t, kNN, and PCA dimensions affect local structure preservation.
+Each plot represents different combinations of diffusion parameters \( t \), kNN values, and PCA dimensions. The color gradient, using a rainbow palette, indicates the classifier accuracy, with red representing higher accuracy and blue representing lower accuracy. The top row corresponds to MAGIC, while the bottom row corresponds to sc-PHENIX. The results show how increasing \( t \), kNN, and PCA dimensions affect local structure preservation.
 
 
 
