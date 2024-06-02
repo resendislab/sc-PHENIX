@@ -26,6 +26,16 @@ This repository contains the files and scripts used to analyze bulk transcriptom
 6. **pca_high_knn_and_eigen_laplacian_maps_190_n_components.ipynb**
    - Further analysis using high knn values and Laplacian Eigenmaps with 190 components to provide a comprehensive comparison.
 
+### FIG 2 Notebooks
+
+The folder `FIG_2` contains the following notebooks used to generate Figures 2A, 2B, and 2C:
+
+1. **Fig_2A_pca_low_knn.ipynb**
+
+2. **Fig_2B_pca_low_knn_MAGIC_and_scphenix_high_knn.ipynb**
+
+
+3. **Fig_2C_pca_low
 
 
 ## Context
