@@ -23,6 +23,8 @@ This repository contains neuronal dataset files that have been imputed using KNN
 5. **File:** `expression_matrix_PCA10_k15.cvs`
    - **PCA:** 10 components
    - **K (KNN):** 15
+  
+The file `10X_knn_smoothing_.ipynb` was used for visualizing the recovered expresion by knn-smoothing of the neuronal dataset for the supplementary section S9
 
 ## DOI
 
