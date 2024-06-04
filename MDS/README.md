@@ -37,7 +37,7 @@ scPhenix_full_fx.csv             | Add files via upload          | 3 days ago
 ![Figure Description](https://github.com/resendislab/sc-PHENIX/blob/main/MDS/Fig%206%20Overview%20knn%20classifier.png)
 
 - **MAGIC.png**: Visualization related to the MAGIC method.
-- **MDS_and_metrics_of_neuronal_dataset.ipynb**: Jupyter Notebook where various combinations of MDS were generated to create Figure 6, with 150 combinations for MAGIC and 150 for sc-PHENIX.
+- **MDS_and_metrics_of_neuronal_dataset.ipynb**: Jupyter Notebook where various combinations of MDS were generated to create Figure 6, with 150 combinations for MAGIC and 150 for sc-PHENIX. Also this has the pic from the  Section S5 Several 2D MDS PLOTS MAGIC AND sc-PHENIX.zip
 - **Magic_full_fx.csv**: Metrics data for the visualizations using the MAGIC method.
 - **phenix.png**: Visualization related to the sc-PHENIX method.
 - **plt.R**: R script used for generating the visualizations.
