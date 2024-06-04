@@ -23,7 +23,7 @@ The primary visualization libraries used in this script are:
 
 ## Interactive Visualizations
 
-Interactive visualizations generated using plotly are viewable in Colab. However, other environments that support interactive visualizations are also suitable.
+Interactive visualizations generated using plotly are viewable in Colab. However, other environments that support interactive visualizations are also suitable. But in github is not
 
 ## Usage
 
