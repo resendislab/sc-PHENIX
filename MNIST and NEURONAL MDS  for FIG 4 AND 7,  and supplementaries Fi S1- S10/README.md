@@ -8,7 +8,7 @@ This repository contains the code to generate figures for the analysis of PBMC a
 This script performs the following key steps:
 1. **Data Preparation**: Loading and preprocessing of data.
 2. **Dimensionality Reduction**: Application of PCA, UMAP, and diffusion maps (same component from MAGIC and sc-PHENIX exponantiated Markovian Matrix) with MDS  to reduce dimensions.
-3. **Visualization**: Creating various plots to visualize the results of the dimensionality reduction mds, phate and umap.
+3. **Visualization**: Creating various plots to visualize the results of the dimensionality reduction mds(ONLY pca, Exponinanted Markov Matrix from init PCA and init PCA-UMAP ), phate and umap.
 
 ## Visualization Libraries
 
