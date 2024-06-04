@@ -42,7 +42,7 @@ The script generates the following figures:
 
 - **Figure 4**: `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
 
-- **Figure 7**: `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
+- **Figure 7**: `Fig 7.ipynb`
 
 - **Supplementary Figures S1 to S10**:  `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
 
