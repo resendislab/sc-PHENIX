@@ -43,6 +43,7 @@ The script generates the following figures:
 - **Figure 4**: [Description of Figure 4]
 - **Figure 7**: [Description of Figure 7]
 - **Supplementary Figures S1 to S10**: [Description of Supplementary Figures]
+- **Supplementary Figures S9 to S10**  `UMAP_MNIST.ipynb`
 
 ## Notes
 
