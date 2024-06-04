@@ -40,9 +40,12 @@ Once the dependencies are installed, you can execute the script to generate the 
 
 The script generates the following figures:
 
-- **Figure 4**: [Description of Figure 4]
-- **Figure 7**: [Description of Figure 7]
-- **Supplementary Figures S1 to S10**: [Description of Supplementary Figures]
+- **Figure 4**: [Description of Figure 4] `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
+
+- **Figure 7**: [Description of Figure 7] `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
+
+- **Supplementary Figures S1 to S10**:  `Fig 4 and 5 and supplementaries for PBMC and NEURONAL mds.ipynb`
+
 - **Supplementary Figures S9 to S10**  `UMAP_MNIST.ipynb`
 
 ## Notes
